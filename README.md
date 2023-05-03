@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhamscaleteam
-- 👀 I work with Reactjs, graphQL and Node.js.
+- 👀 I work with Reactjs, GraphQL and Node.js.
 - 📫  If you have any info that would help, please contact me at my email address: shubhamscaleteam@gmail.com
 
 <!---
